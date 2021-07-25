@@ -6,4 +6,4 @@ I am going to work on one data science project each week challenge. And I will s
 
 After completing each project I will write a detailed blog explaning the project. 
 
-I you want to practice your data science skills you are welcome...!
+If you want to practice your data science skills you are welcome...!
